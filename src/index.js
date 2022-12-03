@@ -18,5 +18,5 @@ root.render(
     <ThirdwebProvider desiredChainId={activeChainId}>
       <App />
     </ThirdwebProvider>
-  </React.StrictMode>,
+  </React.StrictMode>
 );
